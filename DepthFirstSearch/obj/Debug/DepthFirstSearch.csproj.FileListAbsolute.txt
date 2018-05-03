@@ -1,0 +1,6 @@
+c:\users\miles harrison\documents\visual studio 2017\Projects\DepthFirstSearch\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe.config
+c:\users\miles harrison\documents\visual studio 2017\Projects\DepthFirstSearch\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe
+c:\users\miles harrison\documents\visual studio 2017\Projects\DepthFirstSearch\DepthFirstSearch\bin\Debug\DepthFirstSearch.pdb
+c:\users\miles harrison\documents\visual studio 2017\Projects\DepthFirstSearch\DepthFirstSearch\obj\Debug\DepthFirstSearch.csprojResolveAssemblyReference.cache
+c:\users\miles harrison\documents\visual studio 2017\Projects\DepthFirstSearch\DepthFirstSearch\obj\Debug\DepthFirstSearch.exe
+c:\users\miles harrison\documents\visual studio 2017\Projects\DepthFirstSearch\DepthFirstSearch\obj\Debug\DepthFirstSearch.pdb
